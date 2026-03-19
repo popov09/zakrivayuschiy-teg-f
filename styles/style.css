@@ -82,7 +82,7 @@
   font-size: clamp(3.0625rem, 2.7113rem + 1.5023vw, 4.0625rem);
 }
 
-.header__subtitle{
+.header__subtitle {
   font-size: clamp(0.875rem, 0.6779rem + 0.8451vw, 1.4375rem);
   text-transform: uppercase;
 }
